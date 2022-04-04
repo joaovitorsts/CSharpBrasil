@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeDocumentos", "CSharpBrasil\ValidadorDeDocumentos.csproj", "{739F216A-15B5-448F-95B3-BBBD1CE7D68F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{E687279E-DE27-4868-AEAA-5F397A83D6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739F216A-15B5-448F-95B3-BBBD1CE7D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739F216A-15B5-448F-95B3-BBBD1CE7D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739F216A-15B5-448F-95B3-BBBD1CE7D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739F216A-15B5-448F-95B3-BBBD1CE7D68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{739F216A-15B5-448F-95B3-BBBD1CE7D68F} = {E687279E-DE27-4868-AEAA-5F397A83D6E7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF576ABA-8FFD-4298-88D8-66BD9DAD3AA2}
+	EndGlobalSection
+EndGlobal
